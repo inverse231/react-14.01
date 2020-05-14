@@ -10,7 +10,7 @@
     "lint": "eslint src/**/**.js src/**/**.jsx",
     "lint:fix": "eslint src/**/**.js src/**/**.jsx --fix"
   },
-  "author": "Roman Balashov",
+  "author": "inverse231",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.8.3",
